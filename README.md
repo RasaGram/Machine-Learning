@@ -1,7 +1,7 @@
 # Machine-Learning
 
 ### Overview
-Welcome to the Machine-Learning repository! This project leverages transfer learning using the MobileNetV2 model to classify images from a publicly available dataset. The objective is to fine-tune a pre-trained model to achieve high accuracy on our specific dataset.
+Welcome to the Machine-Learning repository! This project leverages transfer learning using the MobileNetV2 model to classify images from a publicly available dataset. The objective is to fine-tune a pre-trained model to achieve accuracy 0.8 on our specific dataset.
 
 ### Tech Stack
 The project utilizes the following technologies:
